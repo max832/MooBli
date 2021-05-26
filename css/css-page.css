@@ -1,0 +1,90 @@
+/*Style (police,...) de tous les H1 du site*/
+h1{
+	color: white;
+	font-size: 45px;
+	font-style: oblique;
+	font-weight: 800;
+}
+/*Couleur de fond sur toutes les pages*/
+body{
+	background-color: #2A992B;
+}
+.livre{
+    border: 6px white solid;
+    height: 250px;
+    text-align: center;
+    width: 500px;
+    color: white;
+}
+input{
+	background:#000000;
+	font:bold 20px Arial;
+	border-radius:40%;
+	border:none;
+	color:#FFFFFF;
+	width: 15%;
+	height: 30%;
+}
+div.boutondet{
+	width:35%;
+	height:35%;
+	background:#2A992B;
+	font:bold 20px Arial;
+	border-radius:60%;
+	border:none;
+	color:#FFFFF;
+	margin: 55px;
+}
+.texte{
+	color: white;
+}
+.texte2{
+	color: white;
+	font:bold 30px Arial;
+}
+.texte3{
+  	color: white;  
+}
+a.top {
+   position:fixed;
+}
+.h2{
+    color: white;
+}
+div.bouton-aligne{
+	display:inline-block;
+	width: 45%;
+	margin: 10px 2.5% 10px 2.5%;
+}
+a{
+   font:bold 23px Arial;
+}
+.bouton-livre {
+	width:355px;
+	height:55px;
+	background:#2A992B;
+	font:bold 30px Arial;
+	border-radius:60%;
+	border:none;
+	color:#FFFFFF;
+}
+.input-livre {
+	width:205px;
+	height:55px;
+	background:#FFFFFF;
+	font:bold 20px Arial;
+	border-radius:30%;
+	border:none;
+	color:#000000;
+}
+.carousel-items {
+    display: flex;
+    overflow-x: scroll;
+    padding: 1rem 0;
+}
+.carousel-item {
+    margin-left: 6rem;
+}
+h2{
+    color: white;
+}
